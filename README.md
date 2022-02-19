@@ -1,5 +1,5 @@
--  Hi, I’m @erencandural, a master's degree student at Politecnico di Milano in Mechanical Engineering in the Robotics and Mechatronics track.
--  I’m interested in digital twin implementation of industrial robots, audio-visual art installations and riot grrrl music.
+- 🔮 Hi, I’m @erencandural, a master's degree student at Politecnico di Milano in Mechanical Engineering in the Robotics and Mechatronics track.
+- 🌟 I’m interested in digital twin implementation of industrial robots, audio-visual art installations and riot grrrl music.
 - 🌱 I’m currently learning how to use Unity and ROS# because of my thesis work.
 - 📫 You can reach me on instagram or on github at @erencandural.
 
